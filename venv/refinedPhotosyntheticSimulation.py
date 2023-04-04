@@ -1,5 +1,10 @@
-#For at simulere og plotte denne anden ordens differentialligning
-# for fotosyntesen i Python, kan du følge disse trin:
+# Dette eksempel er efter min mening bedre og mere troværdigt,
+# fordi kurven i plottet har en svagt aftagende hældning,
+# hvilket igen indikerer at den fotosyntetiske effekt har et optimum
+# og som bekendt - træerne vokser ikke ind i himlen !
+
+# For at simulere og plotte denne anden ordens differentialligning
+# for fotosyntesen i Python, kan du følge disse trin - Held og lykke med opgaven :
 
 #Importer de nødvendige biblioteker, herunder numpy og matplotlib:
 
